@@ -11,7 +11,7 @@
 <details>
 <summary>🇧🇷 Português</summary>
 
-## Olá, eu sou a Giulia! 👋
+## Olá, eu sou a Giulia Andrielly!
 
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** 
 e uno a engenharia de software com minha bagagem em **Design Gráfico** 
@@ -62,7 +62,7 @@ para criar soluções web completas. ✨
 <details>
 <summary>🇺🇸 English</summary>
 
-## Hi, I'm Giulia! 👋
+## Hi, I'm Giulia Andrielly!
 
 I am currently studying **Analysis and Systems Development (ADS)**, 
 bridging software engineering with my background in **Graphic Design** 
